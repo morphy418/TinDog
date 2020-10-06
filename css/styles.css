@@ -148,6 +148,7 @@ p {
 .price-text {
     font-size: 3rem;
     line-height: 1.5;
+    font-weight: bold;
 }
 
 
